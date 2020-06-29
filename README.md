@@ -1,2 +1,3 @@
 # processing-flappybird
-### You can play flappy bird game only using the space
+### ・ This is a game like flappy-bird
+### ・ You can play only using the space key
